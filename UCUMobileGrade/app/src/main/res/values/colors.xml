@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorPrimaryOrig">#3F51B5</color>
+    <color name="colorPrimaryDarkOrig">#303F9F</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="GreenDark">#4CAF50</color>
+    <color name="Green">#4CAF50</color>
+    <color name="Black">#000000</color>
+    <color name="Gray">#ecf0f1</color>
+    <color name="TextColor">#9E9E9E</color>
+    <color name="sheetColor">#EEEEEE</color>
+</resources>
