@@ -99,4 +99,4 @@ public class AdapterRanking extends RecyclerView.Adapter<AdapterRanking.MyViewHo
     public int getItemCount() {
         return dataSet.size();
     }
-}
+
